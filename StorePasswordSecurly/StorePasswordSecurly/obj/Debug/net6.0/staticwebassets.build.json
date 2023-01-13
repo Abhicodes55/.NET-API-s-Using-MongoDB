@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ps8nUairWaKgOrBLmwsfyT0MF/M5W4VBizMLWDBmYeI=",
+  "Source": "StorePasswordSecurly",
+  "BasePath": "_content/StorePasswordSecurly",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
